@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Science, AI, Data Analytics projects
 - 📫 How to reach me laxmibs.sharma@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love turning rar data into meaningful insights and solving real -wolrd problrms
+- ⚡ Fun fact: I love turning raw data into meaningful insights and solving real -wolrd problrms
 
 <!---
 Laxmi02-ux/Laxmi02-ux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
